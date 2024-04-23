@@ -42,4 +42,9 @@ Para el segundo semestre del año 2021 se obtiene que la Tasa de Homicidios fue 
 Al calcular la Cantidad de Accidentes Mortales de Motociclistas para el año 2021, se obtuvo un valor de -53.33, lo que indica un aumento del 53.33% en la cantidad de muertes de conductores de motocicletas en comparación con el año 2020. Este resultado negativo indica que no se cumplió con el objetivo.
 
 ## Conclusiones
+Para los datos proporcionados, se pudo ver que para los años 2016 y 2021, se registraron 716 víctimas fatales en accidentes de tránsito. Diciembre destacó como el mes con el mayor número de fallecimientos en el periodo analizado.
+
+La gran mayoría de las victimas fueron del género masculino con cerca del 77%, la mayoría entre edades de los 25 y 40 años. La mayor cantidad de homicidios sucedieron en avenidas y cruces.
+
+Para el segundo semestre del año 2021, se cumplió con el objetivo de reducir la tasa de homicidios en siniestros viales. Sin embargo, los objetivos de disminuir la cantidad de accidentes mortales de motociclistas para el año 2021 respecto del año 2020 no se cumplieron.
 
