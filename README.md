@@ -30,7 +30,7 @@ En última etapa, para la elaboración del dashboard interactivo, se utiliza Pow
 
 
 ### KPI
-Se establecieron dos objetivos para reducir la cantidad de víctimas muertes en los accidentes viales. Se proponen dos indicadores de rendimiento clave o KPI. Estos son:
+Se establecieron dos objetivos para reducir la cantidad de víctimas en los siniestros viales. Se proponen dos indicadores de rendimiento clave (KPI):
 
 - **Tasa de Homicidios**: Reducción del 10% en la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con el semestre anterior.
 
@@ -39,7 +39,7 @@ Para el segundo semestre del año 2021 se obtiene que la Tasa de Homicidios fue 
 
 - **Accidentes Mortales de Motociclistas**: Reducción del 7% en la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior.
 
-Al calcular la Cantidad de Accidentes Mortales de Motociclistas para el año 2021, se obtuvo un valor de -53.33, lo que indica un aumento del 53.33% en la cantidad de muertes de conductores de motocicletas en comparación con el año 2020. Este resulado negativo indica que no se cumplió con el objetivo.
+Al calcular la Cantidad de Accidentes Mortales de Motociclistas para el año 2021, se obtuvo un valor de -53.33, lo que indica un aumento del 53.33% en la cantidad de muertes de conductores de motocicletas en comparación con el año 2020. Este resultado negativo indica que no se cumplió con el objetivo.
 
 ## Conclusiones
 
