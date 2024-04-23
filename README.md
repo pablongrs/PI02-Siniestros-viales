@@ -17,9 +17,14 @@ Buenos Aires, la ciudad más poblada de Argentina, enfrenta desafíos significat
 
 -   **[Datasets](https://github.com/pablongrs/PI02-Siniestros-viales/tree/master/Datasets)**: Es la carpeta que contiene los datasets utilizados en el proyecto. Aqui podemos encontrar el archivo **`homiciodios.xlsx`** el cual contiene 2 dataset "Hechos" y "Victimas"
 
--   **[ETL](https://github.com/pablongrs/PI02-Siniestros-viales/blob/master/Notebooks/ETL-Homicidios.ipynb)**: En este archivo se realiza la carga de datos, limpieza y transformaciones para que estén en un formato adecuado para el análisis posterior..
+-   **[ETL](https://github.com/pablongrs/PI02-Siniestros-viales/blob/master/Notebooks/ETL-Homicidios.ipynb)**: En este archivo se lleva a cabo el proceso de Extracción, Transformación y Carga de datos. Esto incluye la eliminación de datos nulos y duplicados, así como de columnas innecesarias. Se realizan ajustes en los tipos de datos, se rellenan valores faltantes y se lleva a cabo la unión de las tablas para crear un conjunto de datos limpio para su posterior análisis.
 
--   **[EDA](https://github.com/pablongrs/PI02-Siniestros-viales/blob/master/Notebooks/EDA.ipynb)**: Es el archivo que contiene el análisis exploratorio de datos.
+-   **[EDA](https://github.com/pablongrs/PI02-Siniestros-viales/blob/master/Notebooks/EDA.ipynb)**: Es el archivo que contiene el análisis exploratorio de datos. Este nos ayuda a conocer a profundidad los datos de los cuales extraeremos la información crucial para desarrollar la toma de decisiones.
 
--   **[Dashboard](3-Dashboard.pbix)**: Este archivo contiene el panel de control creado en Power BI, el cual ofrece visualizaciónes interactivas de los datos.
+-   **[Dashboard](3-Dashboard.pbix)**: Este archivo contiene el panel de control creado en Power BI, el cual ofrece visualizaciónes interactivas de los datos para facilitar la comprensión y el análisis. Este presenta una variedad de gráficosque permiten explorar los datos de manera dinámica.
+
+## Tecnologias
+Para el desarrollo de este proyecto, se utilizó el lenguaje Python junto con la libreria Pandas para la extracción, transformación y carga de los datos. Además, se empleó Geopy para la imputación de valores faltantes en longitud y latitud. Y para el análisis exploratorio de datos y las visualizaciones, además de las mencionadas, se usaron Matplotlib y Seaborn.
+
+En última etapa, para la elaboración del dashboard interactivo, se utiliza Power BI.
 
