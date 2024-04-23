@@ -26,7 +26,7 @@ En última etapa, para la elaboración del dashboard interactivo, se utiliza Pow
 
 -   **[EDA](https://github.com/pablongrs/PI02-Siniestros-viales/blob/master/Notebooks/EDA.ipynb)**: Es el archivo que contiene el análisis exploratorio de datos. Este nos ayuda a conocer a profundidad los datos de los cuales extraeremos la información crucial para desarrollar la toma de decisiones.
 
--   **[Dashboard](3-Dashboard.pbix)**: Este archivo contiene el panel de control creado en Power BI, el cual ofrece visualizaciónes interactivas de los datos para facilitar la comprensión y el análisis. Este presenta una variedad de gráficos que permiten explorar los datos de manera dinámica.
+-   **[Dashboard](https://github.com/pablongrs/PI02-Siniestros-viales/blob/master/Dashboard.pbix)**: Este archivo contiene el panel de control creado en Power BI, el cual ofrece visualizaciónes interactivas de los datos para facilitar la comprensión y el análisis. Este presenta una variedad de gráficos que permiten explorar los datos de manera dinámica.
 
 
 ### KPI
