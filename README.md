@@ -1,6 +1,6 @@
 
 
-# <h1 align="center">**`Análisis de Datos de Siniestros Viales en CABA`**</h1>
+# <h1 align="center">Análisis de Datos de Siniestros Viales en CABA</h1>
 
 ![Portada](https://github.com/pablongrs/PI02-Siniestros-viales/blob/master/Img/Portada.png)
 
