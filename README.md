@@ -34,12 +34,10 @@ Se establecieron dos objetivos para reducir la cantidad de víctimas en los sini
 
 - **Tasa de Homicidios**: Reducción del 10% en la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con el semestre anterior.
 
-Para el primer semestre del año 2021, la Tasa de Homicidios fue de 1.76, indicando que durante los primeros 6 meses del año hubo aproximadamente 1.76 homicidios en accidentes de tránsito por cada 100,000 habitantes.
-Para el segundo semestre del año 2021 se obtiene que la Tasa de Homicidios fue de 1.35, lo que significa que se logró cumplir objetivo propuesto
 
 - **Accidentes Mortales de Motociclistas**: Reducción del 7% en la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior.
 
-Al calcular la Cantidad de Accidentes Mortales de Motociclistas para el año 2021, se obtuvo un valor de -53.33, lo que indica un aumento del 53.33% en la cantidad de muertes de conductores de motocicletas en comparación con el año 2020. Este resultado negativo indica que no se cumplió con el objetivo.
+
 
 ## Conclusiones
 Para los datos proporcionados, se pudo ver que para los años 2016 y 2021, se registraron 716 víctimas fatales en accidentes de tránsito. Diciembre destacó como el mes con el mayor número de fallecimientos en el periodo analizado.
