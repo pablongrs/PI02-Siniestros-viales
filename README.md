@@ -1,7 +1,8 @@
 
-<h1 align="center"> PROYECTO INDIVIDUAL 2 </h1>
 
-# <h2 align="center">**`Análisis de Datos de Siniestros Viales en CABA`**</h2>
+# <h1 align="center">**`Análisis de Datos de Siniestros Viales en CABA`**</h1>
+
+![Portada](https://github.com/pablongrs/PI02-Siniestros-viales/blob/master/Img/Portada.png)
 
 ## Introduccion
 Este proyecto fue llevado a cabo con el rol simulado de un Analista de Datos en una consultora, con el objetivo de llevar a cabo un análisis de datos solicitado por el Observatorio de Movilidad y Seguridad Vial (OMSV) de la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires (CABA).
